@@ -1,0 +1,57 @@
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+background (InputLayer)      (None, 28)                0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 256)               7424      
+_________________________________________________________________
+length (Dense)               (None, 15)                3855      
+=================================================================
+Total params: 11,279
+Trainable params: 11,279
+Non-trainable params: 0
+_________________________________________________________________
+None
+Train on 3510 samples, validate on 1170 samples
+Epoch 1/20
+3510/3510 [==============================] - 0s 107us/step - loss: 0.6362 - accuracy: 0.9373 - val_loss: 0.0666 - val_accuracy: 0.9983
+Epoch 2/20
+3510/3510 [==============================] - 0s 69us/step - loss: 0.0213 - accuracy: 1.0000 - val_loss: 0.0268 - val_accuracy: 0.9983
+Epoch 3/20
+3510/3510 [==============================] - 0s 76us/step - loss: 0.0079 - accuracy: 1.0000 - val_loss: 0.0175 - val_accuracy: 0.9983
+Epoch 4/20
+3510/3510 [==============================] - 0s 76us/step - loss: 0.0043 - accuracy: 1.0000 - val_loss: 0.0135 - val_accuracy: 0.9983
+Epoch 5/20
+3510/3510 [==============================] - 0s 73us/step - loss: 0.0027 - accuracy: 1.0000 - val_loss: 0.0113 - val_accuracy: 0.9983
+Epoch 6/20
+3510/3510 [==============================] - 0s 82us/step - loss: 0.0019 - accuracy: 1.0000 - val_loss: 0.0100 - val_accuracy: 0.9983
+Epoch 7/20
+3510/3510 [==============================] - 0s 73us/step - loss: 0.0014 - accuracy: 1.0000 - val_loss: 0.0090 - val_accuracy: 0.9983
+Epoch 8/20
+3510/3510 [==============================] - 0s 72us/step - loss: 0.0011 - accuracy: 1.0000 - val_loss: 0.0084 - val_accuracy: 0.9983
+Epoch 9/20
+3510/3510 [==============================] - 0s 64us/step - loss: 8.5753e-04 - accuracy: 1.0000 - val_loss: 0.0079 - val_accuracy: 0.9983
+Epoch 10/20
+3510/3510 [==============================] - 0s 62us/step - loss: 6.9661e-04 - accuracy: 1.0000 - val_loss: 0.0075 - val_accuracy: 0.9983
+Epoch 11/20
+3510/3510 [==============================] - 0s 67us/step - loss: 5.7662e-04 - accuracy: 1.0000 - val_loss: 0.0071 - val_accuracy: 0.9983
+Epoch 12/20
+3510/3510 [==============================] - 0s 70us/step - loss: 4.8458e-04 - accuracy: 1.0000 - val_loss: 0.0069 - val_accuracy: 0.9983
+Epoch 13/20
+3510/3510 [==============================] - 0s 78us/step - loss: 4.1237e-04 - accuracy: 1.0000 - val_loss: 0.0067 - val_accuracy: 0.9983
+Epoch 14/20
+3510/3510 [==============================] - 0s 78us/step - loss: 3.5469e-04 - accuracy: 1.0000 - val_loss: 0.0065 - val_accuracy: 0.9983
+Epoch 15/20
+3510/3510 [==============================] - 0s 79us/step - loss: 3.0783e-04 - accuracy: 1.0000 - val_loss: 0.0063 - val_accuracy: 0.9983
+Epoch 16/20
+3510/3510 [==============================] - 0s 78us/step - loss: 2.6927e-04 - accuracy: 1.0000 - val_loss: 0.0062 - val_accuracy: 0.9983
+Epoch 17/20
+3510/3510 [==============================] - 0s 59us/step - loss: 2.3712e-04 - accuracy: 1.0000 - val_loss: 0.0061 - val_accuracy: 0.9983
+Epoch 18/20
+3510/3510 [==============================] - 0s 67us/step - loss: 2.1003e-04 - accuracy: 1.0000 - val_loss: 0.0059 - val_accuracy: 0.9983
+Epoch 19/20
+3510/3510 [==============================] - 0s 81us/step - loss: 1.8699e-04 - accuracy: 1.0000 - val_loss: 0.0058 - val_accuracy: 0.9983
+Epoch 20/20
+3510/3510 [==============================] - 0s 63us/step - loss: 1.6726e-04 - accuracy: 1.0000 - val_loss: 0.0058 - val_accuracy: 0.9983
+Accuracy:  74.75308775901794 %
+

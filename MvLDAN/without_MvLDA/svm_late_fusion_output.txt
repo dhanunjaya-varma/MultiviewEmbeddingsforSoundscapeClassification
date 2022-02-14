@@ -1,0 +1,12 @@
+(pyenv) dhanunjay@IIT:~$ python DCASE2017/MvLDAN/without_MvLDA/svm_late_fussion_mean.py 
+(2, 3510, 6144)
+(2, 3510)
+(2, 1170, 6144)
+(2, 1170)
+(2, 4680, 6144)
+(2, 4680)
+(2, 1620, 6144)
+(2, 1620)
+(1620,)
+(1620,)
+Accuracy : 73.20987654320987

@@ -1,0 +1,16 @@
+(pyenv) dhanunjay@IIT:~$ python DCASE2017/MvLDAN/without_MvLDA/svm_early_fusion_mean.py 
+(2, 3510, 6144)
+(2, 3510)
+(2, 1170, 6144)
+(2, 1170)
+(2, 4680, 6144)
+(2, 4680)
+(2, 1620, 6144)
+(2, 1620)
+(4680, 12288)
+(4680,)
+(1620, 12288)
+(1620,)
+/home/dhanunjay/pyenv/lib/python3.5/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+Accuracy:  52.407407407407405 %

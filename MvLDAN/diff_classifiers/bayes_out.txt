@@ -1,0 +1,45 @@
+(pyenv) dhanunjay@IIT:~$ python DCASE2017/MvLDAN/diff_classifiers/bayes_audio.py 
+(2, 3510, 14)
+(2, 3510)
+(2, 1170, 14)
+(2, 1170)
+(2, 4680, 14)
+(2, 4680)
+(2, 1620, 14)
+(2, 1620)
+Accuracy:  71.04938271604938 %
+Accuracy:  68.27160493827161 %
+69.66% (+/- 1.39%)
+
+
+(pyenv) dhanunjay@IIT:~$ python DCASE2017/MvLDAN/diff_classifiers/bayes_avg.py 
+(2, 3510, 14)
+(2, 3510)
+(2, 1170, 14)
+(2, 1170)
+(2, 4680, 14)
+(2, 4680)
+(2, 1620, 14)
+(2, 1620)
+(4680, 14)
+(4680,)
+(1620, 14)
+(1620,)
+Accuracy:  69.62962962962963 %
+
+
+(pyenv) dhanunjay@IIT:~$ python DCASE2017/MvLDAN/diff_classifiers/bayes_early_fusion.py 
+(2, 3510, 14)
+(2, 3510)
+(2, 1170, 14)
+(2, 1170)
+(2, 4680, 14)
+(2, 4680)
+(2, 1620, 14)
+(2, 1620)
+(4680, 28)
+(4680,)
+(1620, 28)
+(1620,)
+Accuracy:  69.93827160493828 %
+
