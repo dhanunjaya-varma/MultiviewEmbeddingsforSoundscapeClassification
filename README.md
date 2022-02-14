@@ -1,4 +1,4 @@
-# LearningToSeparate
+# Multiview Embeddings for Soundscape Classification
 
 This repository contains python implementation of our paper "Multiview Embeddings for Soundscape Classification".
 
