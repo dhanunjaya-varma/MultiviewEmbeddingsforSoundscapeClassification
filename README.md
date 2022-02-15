@@ -5,26 +5,26 @@ This repository contains python implementation of our paper "Multiview Embedding
 ## Introduction
 The work is build on publicly available code for RPCA, OpenL3 (L3-Net) and MvLDAN. We kept all of them here for convenience.
 
-1. OpenL3:
-GitHub link: https://github.com/marl/openl3
-Reference:
-Look, Listen and Learn More: Design Choices for Deep Audio Embeddings
-Jason Cramer, Ho-Hsiang Wu, Justin Salamon, and Juan Pablo Bello.
-IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), pages 3852–3856, Brighton, UK, May 2019.
+1. OpenL3: <br/>
+GitHub link: https://github.com/marl/openl3 <br/>
+Reference: <br/>
+Look, Listen and Learn More: Design Choices for Deep Audio Embeddings <br/>
+Jason Cramer, Ho-Hsiang Wu, Justin Salamon, and Juan Pablo Bello. <br/>
+IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), pages 3852–3856, Brighton, UK, May 2019. <br/>
 
-2. RPCA:
-GitHub link: https://github.com/posenhuang/singingvoiceseparationrpca
-Reference:
-Singing-voice separation from monaural recordings using robust principal component analysis
-Po-Sen Huang, Scott Deeann Chen, Paris Smaragdis, and Mark Hasegawa-Johnson
-IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), pages 57-60, March 2012.
+2. RPCA: <br/>
+GitHub link: https://github.com/posenhuang/singingvoiceseparationrpca <br/>
+Reference: <br/>
+Singing-voice separation from monaural recordings using robust principal component analysis <br/>
+Po-Sen Huang, Scott Deeann Chen, Paris Smaragdis, and Mark Hasegawa-Johnson <br/>
+IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), pages 57-60, March 2012. <br/>
 
-3. MvLDAN:
-GitHub link: https://github.com/penghu-cs/MvLDAN
-Reference:
-Multi-view linear discriminant analysis network
-Peng Hu, Dezhong Peng, Yongsheng Sang and Yong Xiang
-IEEE Transaction on Image Processing (TIP), vol. 28, no. 11, pp. 5352–5365, 2019.
+3. MvLDAN: <br/>
+GitHub link: https://github.com/penghu-cs/MvLDAN <br/>
+Reference: <br/>
+Multi-view linear discriminant analysis network <br/>
+Peng Hu, Dezhong Peng, Yongsheng Sang and Yong Xiang <br/>
+IEEE Transaction on Image Processing (TIP), vol. 28, no. 11, pp. 5352–5365, 2019. <br/>
 
 ## Getting Started
 
