@@ -3,7 +3,10 @@
 This repository contains python implementation of our paper "Multiview Embeddings for Soundscape Classification" accepted for publication in the IEEE/ACM Transactions on Audio, Speech and Language Processing Feb 2022.
 
 ## Introduction
-The work is build on publicly available code for RPCA, L3Net and MvLDAN. We kept all of them here for convenience.
+The work is build on publicly available code for RPCA, OpenL3 (L3-Net) and MvLDAN. We kept all of them here for convenience.
+
+1. OpenL3:
+
 
 ## Getting Started
 
